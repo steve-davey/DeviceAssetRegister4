@@ -1,0 +1,8 @@
+assetTag
+assignedTo
+dateBought
+dateDecommissioned
+deviceType
+operatingSystem
+
+devices
